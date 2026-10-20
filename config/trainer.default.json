@@ -1,0 +1,9 @@
+{
+  "process_name": "ToxicCommando-Win64-Shipping.exe",
+  "game_build": "1.2.7",
+  "toggle_key": "INSERT",
+  "aimbot_key": "VK_XBUTTON2",
+  "esp_enabled_default": false,
+  "godmode_enabled_default": false,
+  "overlay_fps": 60
+}
